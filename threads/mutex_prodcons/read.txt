@@ -1,1 +1,8 @@
 
+Contains all the code examples related to 
+  ->producer consumer problems
+  ->use of mutex and conditional variables
+  ->creation of message queue
+  ->attributes and parameter setup for the threads 
+  
+ ->Multithreading and multitasking examples
